@@ -1,0 +1,13 @@
+login,departamento,seccion
+usucomp1,Compras,Administracion
+usucomp2,Compras,Administracion
+usufact1,Facturacion,Administracion
+usufact2,Facturacion,Administracion
+usuvent1,Ventas,Administracion
+usuvent2,Ventas,Administracion
+usucont1,Control,Administracion
+usucont2,Control,Administracion
+usupro1,Produccion,Almacen
+usupro2,Produccion,Almacen
+usudir1,Gestion,Direccion
+usudir2,Gestion,Direccion
